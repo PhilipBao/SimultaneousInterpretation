@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.2_10ad5ab84b3be285c2717fcefbd471f12dc7faa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.2_b1d338cdc359230fac7637ebbb7bfa52ac586523\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Philip Bao\.gradle\caches\modules-2\files-2.1\com.googlecode.json-simple\json-simple\1.1.1\c9ad4a0850ab676c5c64461a05ca524cdfff59f1\json-simple-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="c9ad4a0850ab676c5c64461a05ca524cdfff59f1">
+        <dex dex="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\transforms\dex\debug\folders\1000\10\json-simple-1.1.1_29f7a2b9d15dc72a0b6cd188b91861a8e89bd671\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.2_7b7912dd03f9e8da72e25757b021bad0745655aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="bbdec3d61e312062af6d1dc000ab06a6e5cf7ac0">
+        <dex dex="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_65c53c44b9f74060c82661cef03ec8290a575789\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Philip Bao\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-android-4.3.5.1_7471ff08b0565f11e3d7745a7cfe422a5bf2dd09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Philip Bao\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.2_0c3b2f5f09d0ff92c5a0dbf6978e12cdba825d4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Philip Bao\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.1\860340562250678d1a344907ac75754e259cdb14\hamcrest-core-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.1_7cffae6cf1fd12b574d13635d1b0dcf30a3fd45f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="4794c273f9a68a47e955777d7c6d5a584220c654">
+        <dex dex="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ab0079c5ec399cab8887b76fb0e4bfe3e757b3a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Philip Bao\.gradle\caches\modules-2\files-2.1\junit\junit\4.10\e4f1766ce7404a08f45d859fb9c226fc9e41a861\junit-4.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="e4f1766ce7404a08f45d859fb9c226fc9e41a861">
+        <dex dex="C:\Users\Philip Bao\Desktop\SimultaneousInterpretation\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.10_99d9dc7eb32aaeedb95ece67ae578b5bf109f61f\classes.dex" />
+    </item>
+
+</items>
